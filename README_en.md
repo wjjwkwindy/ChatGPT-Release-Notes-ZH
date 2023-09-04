@@ -1,5 +1,5 @@
 # ChatGPT — Release Notes
-> [English](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) | [中文版](./README_zh.md)
+> [Origin Post](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) | [中文版](./README.md)
 
 > The latest update for ChatGPT
 

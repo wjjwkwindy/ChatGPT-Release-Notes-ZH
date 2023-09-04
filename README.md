@@ -1,5 +1,5 @@
 # ChatGPT — 发行说明
-> [英文版](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) | [中文版](./README_zh.md)
+> [原文](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 > The latest update for ChatGPT
 
