@@ -1,25 +1,28 @@
-# ChatGPT — 发行说明
-> ChatGPT 最新的更新内容  
-> [来源](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+# ChatGPT — Release Notes
+> [English](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) | [中文版](./README_zh.md)
 
-ChatGPT 企业版简介 (2023 年 8 月 28 日)
+> The latest update for ChatGPT
+
+Introducing ChatGPT Enterprise (August 28, 2023)
 ------------------------------------------------
 
-今天我们发布了 [ChatGPT 企业版](https://openai.com/blog/introducing-chatgpt-enterprise), 提供企业级的安全和隐私, 无限量的高速 GPT-4 访问, 长文章窗口用于处理长文本输入, 高级数据分析能力, 自定义选型, 还有更多.
+Today we’re launching [ChatGPT Enterprise](https://openai.com/blog/introducing-chatgpt-enterprise), which offers enterprise-grade security and privacy, unlimited higher-speed GPT-4 access, longer context windows for processing longer inputs, advanced data analysis capabilities, customization options, and much more.
 
-ChatGPT 企业版同时提供无限量的高级数据分析, 预览版被称之为 [代码解释器](https://openai.com/blog/chatgpt-plugins).
+ChatGPT Enterprise also provides unlimited access to Advanced Data Analysis, previously known as [Code Interpreter](https://openai.com/blog/chatgpt-plugins).
 
-[在我们网站上了解更多](https://openai.com/enterprise) 并且可以通过联系我们的销售团队来开始.
+[Learn more on our website](https://openai.com/enterprise) and connect with our sales team to get started.
 
-自定义指令现在已对欧盟国家和英国用户开放（2023 年 8 月 21 日）
+Custom instructions are now available to users in the EU & UK (August 21, 2023)
 -------------------------------------------------------------------------------
 
-自定义指令现在已对欧盟国家和英国用户开放。
+Custom instructions are now available to users in the European Union & United Kingdom.
 
-添加你的指令：
+To add your instructions:
 
-* 点击你的名字
-* 选择“自定义指令”
+*   Click on your name
+    
+*   Select ‘Custom instructions’
+    
 
 Custom instructions are now available to free users (August 9, 2023)
 --------------------------------------------------------------------
