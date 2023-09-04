@@ -1,7 +1,7 @@
 # ChatGPT — 发行说明
 > [原文](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
-> The latest update for ChatGPT
+> ChatGPT 的最新更新
 
 ChatGPT 企业版简介 (2023 年 8 月 28 日)
 ------------------------------------------------
@@ -17,24 +17,22 @@ ChatGPT 企业版同时提供无限量的高级数据分析, 预览版被称之�
 
 自定义指令现在已对欧盟国家和英国用户开放。
 
-添加你的指令：
+要添加你的指令：
 
 * 点击你的名字
 * 选择“自定义指令”
 
-Custom instructions are now available to free users (August 9, 2023)
+自定义指令现在为免费用户开放（2023 年 8 月 9日）
 --------------------------------------------------------------------
 
-Custom instructions are now available to ChatGPT users on the free plan, except for in the EU & UK where we will be rolling it out soon!
+自定义指令现在已经对 ChatGPT 免费方案用户开放，除了欧盟国家和英国，我们将很快推出！
 
-Customize your interactions with ChatGPT by providing specific details and guidelines for your chats.
+自定义你的 ChatGPT 互动以对你的谈话提供具体细节和准则。
 
-To add your instructions:
+要添加你的指令：
 
-*   Click on your name
-    
-*   Select ‘Custom instructions’
-    
+* 点击你的名字
+* 选择“自定义指令”
 
 Updates to ChatGPT (August 3, 2023)
 -----------------------------------
