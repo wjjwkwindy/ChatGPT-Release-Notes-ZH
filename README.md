@@ -1,6 +1,7 @@
 # ChatGPT — Release Notes
-> The latest update for ChatGPT  
-> [Origin](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+> [English](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) | [中文版](./README_zh.md)
+
+> The latest update for ChatGPT
 
 Introducing ChatGPT Enterprise (August 28, 2023)
 ------------------------------------------------
