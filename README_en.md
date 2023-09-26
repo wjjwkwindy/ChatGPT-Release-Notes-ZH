@@ -3,6 +3,51 @@
 
 > The latest update for ChatGPT
 
+**New voice and image capabilities in ChatGPT (September 25, 2023)**
+--------------------------------------------------------------------
+
+We are beginning to roll out new voice and image capabilities in ChatGPT. They offer a new, more intuitive type of interface by allowing you to have a voice conversation or show ChatGPT what you’re talking about. Learn more [here](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak).
+
+#### Voice (Beta) is now rolling out to Plus users on iOS and Android
+
+You can now use voice to engage in a back-and-forth conversation with your assistant. Speak with it on the go, request a bedtime story, or settle a dinner table debate.
+
+To get started with voice, head to Settings → New Features on the mobile app and opt into voice conversations. Then, tap the headphone button located in the top-right corner of the home screen and choose your preferred voice out of five different voices.
+
+#### Image input will be generally available to Plus users on all platforms
+
+You can now show ChatGPT one or more images. Troubleshoot why your grill won’t start, explore the contents of your fridge to plan a meal, or analyze a complex graph for work-related data. To focus on a specific part of the image, you can use the drawing tool in our mobile app.
+
+To get started, tap the photo button to capture or choose an image. You can also discuss multiple images or use our drawing tool to guide your assistant.
+
+**ChatGPT language support - Alpha on web (September 11, 2023)**
+----------------------------------------------------------------
+
+ChatGPT now supports a limited selection of languages in the interface:
+
+*   Chinese (zh-Hans)
+    
+*   Chinese (zh-TW)
+    
+*   French (fr-FR)
+    
+*   German (de-DE)
+    
+*   Italian (it-IT)
+    
+*   Japanese (ja-JP)
+    
+*   Portuguese (pt-BR)
+    
+*   Russian (ru-RU)
+    
+*   Spanish (es-ES)
+    
+
+If you've configured your browser to use one of these supported languages, you'll see a banner in ChatGPT that enables you to switch your language settings. You can deactivate this option at any time through the settings menu.
+
+This feature is in alpha, requires opting in, and currently can only be used on the web at chat.openai.com. Learn more [here](https://help.openai.com/en/articles/8357869-chatgpt-language-support-beta-web).
+
 Introducing ChatGPT Enterprise (August 28, 2023)
 ------------------------------------------------
 
