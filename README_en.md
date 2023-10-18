@@ -3,6 +3,19 @@
 
 > The latest update for ChatGPT
 
+**Browsing is rolling back out to Plus users (September 27, 2023)**
+-------------------------------------------------------------------
+
+Browsing is rolling out to all Plus users. ChatGPT can now browse the internet to provide you with current and authoritative information, complete with direct links to sources. It is no longer limited to data before September 2021.
+
+To try it out, enable Browsing in your beta features setting.
+
+*   Click on 'Profile & Settings’
+*   Select 'Beta features'
+*   Toggle on ‘Browse with Bing’
+
+Choose Browse with Bing in the selector under GPT-4.
+
 **New voice and image capabilities in ChatGPT (September 25, 2023)**
 --------------------------------------------------------------------
 
