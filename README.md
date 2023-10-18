@@ -1,9 +1,6 @@
 # ChatGPT — 发行说明
 > [原文](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
-> ChatGPT 的最新更新
-
-**Browsing is rolling back out to Plus users (September 27, 2023)**
 
 在线搜素重新为高级用户开放（2023 年 9 月 27 日）
 -------------------------------------------------------------------
